@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact | First Responder Law</title>
+<meta name="description" content="Contact First Responder Law.">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="brand" href="/">First Responder <span>Law</span></a>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <h1>Contact</h1>
+  <p>Questions, corrections, or topics you'd like to see covered — send a message below.</p>
+</div>
+
+<main>
+  <div class="notice">
+    This form is for general inquiries only. Do not include sensitive personal or medical information. Submitting this form does not create an attorney-client relationship and is not a substitute for legal advice.
+  </div>
+
+  <form action="https://api.web3forms.com/submit" method="POST">
+    <!-- Replace YOUR_ACCESS_KEY_HERE with the key emailed to you by web3forms.com -->
+    <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+    <input type="hidden" name="subject" value="New message from First Responder Law contact form">
+    <input type="checkbox" name="botcheck" style="display:none">
+
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message" rows="6" required></textarea>
+
+    <button type="submit">Send Message</button>
+  </form>
+</main>
+
+<footer>
+  &copy; 2026 First Responder Law. All rights reserved. &middot; <a href="/about.html">Disclaimer</a> &middot; <a href="/contact.html">Contact</a>
+</footer>
+
+</body>
+</html>
