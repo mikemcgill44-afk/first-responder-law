@@ -20,10 +20,10 @@ body {
 
 .flag-banner {
   position: relative;
-  height: 56px;
+  height: 84px;
   overflow: hidden;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='72' viewBox='0 -8 200 72'%3E%3Cpath d='M0,-8 Q50,-16 100,-8 Q150,0 200,-8 L200,0 Q150,8 100,0 Q50,-8 0,0 Z' fill='%23fff'/%3E%3Cpath d='M0,0 Q50,-8 100,0 Q150,8 200,0 L200,8 Q150,16 100,8 Q50,0 0,8 Z' fill='%23a32020'/%3E%3Cpath d='M0,8 Q50,0 100,8 Q150,16 200,8 L200,16 Q150,24 100,16 Q50,8 0,16 Z' fill='%23fff'/%3E%3Cpath d='M0,16 Q50,8 100,16 Q150,24 200,16 L200,24 Q150,32 100,24 Q50,16 0,24 Z' fill='%23a32020'/%3E%3Cpath d='M0,24 Q50,16 100,24 Q150,32 200,24 L200,32 Q150,40 100,32 Q50,24 0,32 Z' fill='%23fff'/%3E%3Cpath d='M0,32 Q50,24 100,32 Q150,40 200,32 L200,40 Q150,48 100,40 Q50,32 0,40 Z' fill='%23a32020'/%3E%3Cpath d='M0,40 Q50,32 100,40 Q150,48 200,40 L200,48 Q150,56 100,48 Q50,40 0,48 Z' fill='%23fff'/%3E%3Cpath d='M0,48 Q50,40 100,48 Q150,56 200,48 L200,56 Q150,64 100,56 Q50,48 0,56 Z' fill='%23a32020'/%3E%3Cpath d='M0,56 Q50,48 100,56 Q150,64 200,56 L200,64 Q150,72 100,64 Q50,56 0,64 Z' fill='%23fff'/%3E%3C/svg%3E");
-  background-repeat: repeat-x;
+  background-repeat: repeat;
   background-size: 200px 72px;
   background-position: 0 -8px;
   animation: flagRipple 3.5s linear infinite;
@@ -46,17 +46,17 @@ body {
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
-  letter-spacing: 2px;
-  font-size: 1.05rem;
+  letter-spacing: 3px;
+  font-size: 2rem;
   text-transform: uppercase;
-  padding: 10px 28px;
+  padding: 16px 40px;
   border-radius: 2px;
-  box-shadow: 0 0 0 2px var(--gold);
+  box-shadow: 0 0 0 3px var(--gold);
 }
 
 .flag-banner-title span {
   color: var(--gold);
-  margin-left: 6px;
+  margin-left: 8px;
 }
 
 header {
@@ -73,6 +73,10 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+}
+
+.header-inner.nav-only {
+  justify-content: flex-end;
 }
 
 .brand {
