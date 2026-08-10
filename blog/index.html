@@ -31,22 +31,24 @@
 </div>
 
 <main>
-  <div class="card">
-    <div class="section-title">Legal News</div>
-    <h3><a href="/blog/dishonesty-discipline-chp-ruling.html">An Isolated Act of Dishonesty Doesn't Have to End Your Career &mdash; And Now There's a Published Case to Prove It</a></h3>
-    <p>A published California appellate decision limits when a single act of dishonesty can justify firing a peace officer, and what it means for POST decertification cases.</p>
-    <p style="font-size:0.85rem;color:var(--muted);">August 10, 2026</p>
+  <div class="filters">
+    <button class="filter-btn discipline" data-filter="discipline">Discipline</button>
+    <button class="filter-btn" data-filter="presumptive-illness">Presumptive Illness</button>
+    <button class="filter-btn" data-filter="line-of-duty-disability">Line-of-Duty Disability</button>
+    <button class="filter-btn" data-filter="workers-comp">Workers' Compensation</button>
+    <button class="filter-btn" data-filter="pensions">Pensions &amp; Retirement</button>
+    <button class="filter-btn" data-filter="wrongful-death">Wrongful Death</button>
   </div>
 
-  <div class="card">
-    <h3>More posts are on the way</h3>
-    <p>This is where articles on workers' compensation, line-of-duty disability, pensions, wrongful death claims, and other legal topics for first responders will be published. Check back soon.</p>
-  </div>
+  <div id="post-list" class="post-list"></div>
+  <div id="pagination" class="pagination" style="display:none;"></div>
 </main>
 
 <footer>
   &copy; 2026 First Responder Law. All rights reserved. &middot; <a href="/about.html">Disclaimer</a> &middot; <a href="/contact.html">Contact</a>
 </footer>
+
+<script src="/blog/feed.js"></script>
 
 </body>
 </html>
