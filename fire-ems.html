@@ -31,22 +31,20 @@
 </div>
 
 <main>
-  <div class="section-title">Coming Soon</div>
   <h2>Topics for fire &amp; EMS</h2>
-  <p>This section will cover legal topics specific to firefighters and EMS personnel, including presumptive illness and cancer claims, line-of-duty disability, workers' compensation, pension and retirement issues, and wrongful death claims.</p>
+  <p>Legal topics specific to firefighters and EMS personnel, including presumptive illness and cancer claims, line-of-duty disability, workers' compensation, pension and retirement issues, discipline, and wrongful death claims.</p>
 
-  <div class="categories">
-    <span class="pill">Presumptive Illness</span>
-    <span class="pill">Line-of-Duty Disability</span>
-    <span class="pill">Workers' Compensation</span>
-    <span class="pill">Pensions &amp; Retirement</span>
-    <span class="pill">Wrongful Death</span>
+  <div class="filters">
+    <button class="filter-btn discipline" data-filter="discipline">Discipline</button>
+    <button class="filter-btn" data-filter="presumptive-illness">Presumptive Illness</button>
+    <button class="filter-btn" data-filter="line-of-duty-disability">Line-of-Duty Disability</button>
+    <button class="filter-btn" data-filter="workers-comp">Workers' Compensation</button>
+    <button class="filter-btn" data-filter="pensions">Pensions &amp; Retirement</button>
+    <button class="filter-btn" data-filter="wrongful-death">Wrongful Death</button>
   </div>
 
-  <div class="card">
-    <h3>Articles are on the way</h3>
-    <p>Check back soon, or visit the <a href="/blog/">blog page</a> for the latest posts across all topics.</p>
-  </div>
+  <div id="post-list" class="post-list"></div>
+  <div id="pagination" class="pagination" style="display:none;"></div>
 
   <div class="notice">
     <strong>Not legal advice.</strong> Content on this site is for general informational purposes only. See the <a href="/about.html">About &amp; Disclaimer</a> page for full details.
@@ -56,6 +54,9 @@
 <footer>
   &copy; 2026 First Responder Law. All rights reserved. &middot; <a href="/about.html">Disclaimer</a> &middot; <a href="/contact.html">Contact</a>
 </footer>
+
+<script>window.FRL_AUDIENCE = 'fire';</script>
+<script src="/blog/feed.js"></script>
 
 </body>
 </html>
