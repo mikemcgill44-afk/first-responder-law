@@ -7,9 +7,9 @@
     'pensions': 'Pensions & Retirement',
     'wrongful-death': 'Wrongful Death',
     'presumptive-illness': 'Presumptive Illness',
-    'labor-relations': 'Labor Relations',
     'civil-rights': 'Civil Rights',
-    'wage-hour': 'Wage & Hour'
+    'meet-confer': 'Meet & Confer',
+    'collective-bargaining': 'Collective Bargaining'
   };
   var state = { posts: [], filtered: [], page: 1, category: null };
 
