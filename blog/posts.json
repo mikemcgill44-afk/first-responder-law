@@ -12,7 +12,7 @@
     "title": "The City Tried to Skip the Bargaining Table on Your Pension. The Court Sent Back the Bill.",
     "excerpt": "A California appellate ruling confirms that when a city unilaterally changes pension reciprocity, it still owes employees a seat at the table — and a check to make up the difference.",
     "date": "2026-08-03",
-    "categories": ["pensions", "labor-relations"],
+    "categories": ["pensions", "meet-confer"],
     "audience": ["police", "fire"]
   },
   {
@@ -52,7 +52,7 @@
     "title": "Those Minutes Before Roll Call? The Feds Just Said They Count",
     "excerpt": "A new federal opinion letter confirms that essential pre- and post-shift tasks like gear checks and equipment prep are compensable work, not free time.",
     "date": "2026-06-08",
-    "categories": ["wage-hour"],
+    "categories": ["collective-bargaining"],
     "audience": ["police", "fire"]
   },
   {
@@ -60,7 +60,7 @@
     "title": "A Federal Court Just Narrowed a Wage Claim — Here's Why California First Responders Don't Need to Panic",
     "excerpt": "A Third Circuit ruling narrows federal 'gap time' wage claims in that circuit, but Ninth Circuit precedent and California wage law keep the door open for California police and fire employees.",
     "date": "2026-06-07",
-    "categories": ["wage-hour"],
+    "categories": ["collective-bargaining"],
     "audience": ["police", "fire"]
   },
   {
@@ -68,7 +68,7 @@
     "title": "Before Your Personnel File Goes Public, Shouldn't Someone Have to Tell You?",
     "excerpt": "A New York labor board ruling says agencies must bargain over advance notice before releasing personnel records — persuasive authority for California officers under Penal Code 832.7.",
     "date": "2026-06-05",
-    "categories": ["labor-relations"],
+    "categories": ["meet-confer"],
     "audience": ["police", "fire"]
   },
   {
@@ -76,7 +76,7 @@
     "title": "Trying to Switch Unions Through the Back Door? PERB Just Nailed That Door Shut",
     "excerpt": "Two PERB decisions confirm that severance petitions can only be used to create a brand-new standalone bargaining unit — not to transfer classifications into an existing one.",
     "date": "2026-06-03",
-    "categories": ["labor-relations"],
+    "categories": ["collective-bargaining"],
     "audience": ["police", "fire"]
   },
   {
@@ -84,7 +84,7 @@
     "title": "Disciplined AND Retaliated Against? Why Losing One Fight Doesn't Mean You Lose the War",
     "excerpt": "An appellate ruling confirms that an arbitrator can order back pay for union retaliation even after a state personnel board has already upheld the same discipline on other grounds.",
     "date": "2026-06-01",
-    "categories": ["discipline"],
+    "categories": ["discipline", "collective-bargaining"],
     "audience": ["police", "fire"]
   }
 ]
