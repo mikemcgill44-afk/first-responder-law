@@ -234,8 +234,7 @@ nav a:hover { color: var(--gold); }
 .rights-badge {
   position: absolute;
   z-index: 3;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 18px;
   background: var(--gold);
   color: var(--navy);
   border: 2px solid #fff;
@@ -263,7 +262,7 @@ nav a:hover { color: var(--gold); }
 .rights-badge:hover {
   background: #fff;
   color: var(--navy);
-  transform: translateY(-50%) scale(1.06);
+  transform: scale(1.06);
   animation-play-state: paused;
 }
 
@@ -277,6 +276,7 @@ nav a:hover { color: var(--gold); }
 
 @media (max-width: 700px) {
   .rights-badge {
+    top: 12px;
     width: 112px;
     font-size: 0.62rem;
     padding: 10px 8px;
