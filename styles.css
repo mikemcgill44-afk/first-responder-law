@@ -79,6 +79,23 @@ header {
   justify-content: flex-end;
 }
 
+.header-ca-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  color: #cfd6e2;
+  font-weight: 600;
+}
+
+.header-ca-badge .ca-flag-icon {
+  width: 28px;
+  height: auto;
+  border-radius: 2px;
+  border: 1px solid rgba(255,255,255,0.3);
+}
+
 .brand {
   font-size: 1.5rem;
   font-weight: bold;
@@ -214,30 +231,47 @@ nav a:hover { color: var(--gold); }
 
 .rights-badge {
   position: absolute;
-  z-index: 2;
-  bottom: 16px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(11,31,58,0.88);
-  border: 1.5px solid var(--gold);
-  color: #fff;
+  z-index: 3;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--gold);
+  color: var(--navy);
+  border: 2px solid #fff;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 0.7rem;
-  font-weight: 700;
+  font-size: 0.74rem;
+  font-weight: 800;
   letter-spacing: 0.3px;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 9px 16px;
-  border-radius: 4px;
+  padding: 14px 12px;
+  border-radius: 6px;
   text-align: center;
-  line-height: 1.3;
-  max-width: 230px;
-  transition: background 0.15s ease, color 0.15s ease;
+  line-height: 1.35;
+  width: 112px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+  transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
 }
 
 .rights-badge:hover {
-  background: var(--gold);
+  background: #fff;
   color: var(--navy);
+  transform: translateY(-50%) scale(1.06);
+}
+
+.rights-badge-left {
+  left: 14px;
+}
+
+.rights-badge-right {
+  right: 14px;
+}
+
+@media (max-width: 700px) {
+  .rights-badge {
+    width: 96px;
+    font-size: 0.68rem;
+    padding: 10px 8px;
+  }
 }
 
 .split-divider {
