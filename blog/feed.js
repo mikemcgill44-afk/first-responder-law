@@ -6,7 +6,10 @@
     'workers-comp': "Workers' Compensation",
     'pensions': 'Pensions & Retirement',
     'wrongful-death': 'Wrongful Death',
-    'presumptive-illness': 'Presumptive Illness'
+    'presumptive-illness': 'Presumptive Illness',
+    'labor-relations': 'Labor Relations',
+    'civil-rights': 'Civil Rights',
+    'wage-hour': 'Wage & Hour'
   };
   var state = { posts: [], filtered: [], page: 1, category: null };
 
