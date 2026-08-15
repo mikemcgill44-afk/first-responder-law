@@ -1,4 +1,4 @@
-[
+——————————————————————[
   {
     "slug": "dishonesty-discipline-chp-ruling",
     "title": "An Isolated Act of Dishonesty Doesn't Have to End Your Career — And Now There's a Published Case to Prove It",
@@ -86,5 +86,248 @@
     "date": "2026-06-01",
     "categories": ["discipline", "collective-bargaining"],
     "audience": ["police", "fire"]
-  }
+  },
+  {
+        "slug": "k9-bite-records-disclosure-ruling",
+        "title": "Your K9's Bite File Just Got a Lot More Public — Here's the Case That Did It",
+        "excerpt": "A published appellate ruling redefines 'great bodily injury' for purposes of personnel-record disclosure, and canine bite reports are now squarely in the blast radius.",
+        "date": "2026-05-26",
+        "categories": [
+                "civil-litigation"
+        ],
+        "audience": [
+                "police"
+        ]
+  },
+    {
+          "slug": "outsourcing-bargaining-waiver-ruling",
+          "title": "The County Thought a Contract Clause Let It Skip the Bargaining Table. The Court of Appeal Disagreed.",
+          "excerpt": "A published ruling holds that vague 'reorganization' language in an MOU isn't enough to waive a union's right to bargain over outsourcing — agencies need something a lot more explicit.",
+          "date": "2026-04-13",
+          "categories": [
+                  "collective-bargaining"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "firefighter-overtime-divisor-amicus",
+          "title": "How Your Overtime Rate Gets Calculated Just Became a Ninth Circuit Fight — And Firefighters Have Skin in the Game",
+          "excerpt": "A district court got the math right on how salaried firefighters' regular rate of pay should be calculated under the FLSA. Now the City is appealing, and the stakes are statewide.",
+          "date": "2026-04-27",
+          "categories": [
+                  "collective-bargaining"
+    ],
+          "audience": [
+                  "fire"
+          ]
+    },
+    {
+          "slug": "ninth-circuit-federal-id-mandate-injunction",
+          "title": "A Federal Court Just Blew a Hole in California's Mask-Ban Law — But Don't Celebrate Yet If You're Not Federal",
+          "excerpt": "The Ninth Circuit sided with the federal government on the No Vigilantes Act's ID mandate, citing the Supremacy Clause — a ruling that leaves state and local officers holding the restrictions federal agents just escaped.",
+          "date": "2026-04-23",
+          "categories": [
+                  "civil-rights"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "off-duty-protest-first-amendment-ruling",
+          "title": "Off the Clock Doesn't Mean Off the Radar — But It Also Doesn't Mean Off Your Rights",
+          "excerpt": "A federal court sides with an officer disciplined for off-duty protest activity, reinforcing that public employers can't punish speech on matters of public concern just because a badge is involved.",
+          "date": "2026-06-15",
+          "categories": [
+                  "civil-rights"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "clean-record-agreements-ban-ab1388",
+          "title": "The 'Clean Slate' Deal Is Dead — What AB 1388 Actually Changes for Discipline Cases",
+          "excerpt": "As of January 1, 2026, agencies and officers can no longer strike 'clean record agreements' to quietly settle discipline disputes. Here's what that means for pending and future cases.",
+          "date": "2026-03-17",
+          "categories": [
+                  "discipline"
+          ],
+          "audience": [
+                  "police",
+                  "fire"
+          ]
+    },
+    {
+          "slug": "burlington-oib-verdict-new-trial-motion",
+          "title": "The Jury Cleared LAPD in the Burlington Shooting. The Fight Isn't Over.",
+          "excerpt": "A Burbank jury delivered a 9-3 defense verdict for the City in one of California's most closely watched officer-involved shooting cases. Now the plaintiffs want a do-over — and a hearing is set to decide it.",
+          "date": "2026-07-29",
+          "categories": [
+                  "civil-litigation"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "industrial-disability-retirement-basics",
+          "title": "Industrial Disability Retirement Isn't the Same as Regular Retirement — Here's Why That Distinction Pays",
+          "excerpt": "Getting classified as an industrial (rather than ordinary) disability retirement can mean the difference between a fraction of your pension and a tax-advantaged benefit that reflects what the job actually cost you.",
+          "date": "2026-07-24",
+          "categories": [
+                  "line-of-duty-disability"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "ucsc-lieutenant-wrongful-termination-verdict-affirmed",
+          "title": "Fired, Then Vindicated: A Record Verdict for a Wrongfully Terminated Police Lieutenant Survives Appeal",
+          "excerpt": "The Court of Appeal affirmed a record jury verdict in favor of a UC Santa Cruz police lieutenant who was wrongfully fired — a reminder that a bad termination decision doesn't just cost a career, it costs the agency.",
+          "date": "2026-05-20",
+          "categories": [
+                  "discipline"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "engine-door-liability-lawsuit",
+          "title": "A Fire Engine's Door Swung Open at an Emergency Scene — Now There's a Lawsuit. Here's Why It Might Not Go Far.",
+          "excerpt": "A California driver is suing a fire department after an engine's door struck his truck at an emergency scene, but the suit may be running straight into a statute most plaintiffs' attorneys forget to check.",
+          "date": "2026-07-28",
+          "categories": [
+                  "civil-litigation"
+          ],
+          "audience": [
+                  "fire"
+          ]
+    },
+    {
+          "slug": "sdpd-miscellaneous-complaints-writ",
+          "title": "SDPD Has Been Quietly Filing Away 4 Out of Every 5 Complaints as 'Miscellaneous.' A Lawsuit Says That's Illegal.",
+          "excerpt": "A new writ of mandate argues San Diego PD is using a label that doesn't exist anywhere in the governing law to keep the vast majority of misconduct complaints away from independent civilian review.",
+          "date": "2026-06-10",
+          "categories": [
+                  "civil-rights"
+          ],
+                "audience": [
+                        "police"
+                ]
+    },
+    {
+          "slug": "sdpd-scott-discrimination-settlement",
+          "title": "Eleven Years, Three Lawsuits, One $3.1 Million Answer to 'Why Didn't You Just Let It Go?'",
+          "excerpt": "A veteran San Diego sergeant who reported racist material in department trainings spent over a decade fighting retaliation claims. The city just agreed the fight was worth $3.1 million.",
+          "date": "2026-07-14",
+          "categories": [
+                  "civil-rights"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "sb487-subrogation-reform",
+          "title": "Hurt on the Job by Someone Else's Negligence? The Rules on Who Gets Paid First Just Changed",
+          "excerpt": "SB 487 rewrites how workers' compensation subrogation works for peace officers and firefighters hurt by a third party, guaranteeing a bigger cut of limited insurance proceeds actually reaches the injured employee.",
+          "date": "2026-02-10",
+          "categories": [
+                  "workers-comp"
+          ],
+          "audience": [
+                  "police",
+                  "fire"
+          ]
+    },
+    {
+          "slug": "ab1125-heart-presumption-expansion",
+          "title": "The Heart Presumption Just Got Bigger — Here's Who's Newly Covered",
+          "excerpt": "AB 1125 extends California's heart-injury workers' comp presumption to peace officers at the Department of State Hospitals who were previously left out of protections their counterparts already had.",
+          "date": "2026-02-17",
+          "categories": [
+                  "workers-comp"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "sb230-airport-firefighter-presumption",
+          "title": "Airport Firefighters Just Caught Up to Everyone Else on Cancer and PTSD Coverage",
+          "excerpt": "SB 230 closes a gap that left commercial airport firefighters without the same cancer and psychiatric injury presumptions their municipal and county counterparts have had for years.",
+          "date": "2026-01-20",
+          "categories": [
+                  "workers-comp"
+          ],
+          "audience": [
+                  "fire"
+          ]
+    },
+    {
+          "slug": "fitness-for-duty-know-your-rights",
+          "title": "Told to Report for a Fitness-for-Duty Exam? Know Exactly What the Department Can and Can't Ask",
+          "excerpt": "Fitness-for-duty referrals are becoming more common — and more legally fraught. Here's what the statutes and regulations actually require before an agency can send you for one.",
+          "date": "2026-07-08",
+          "categories": [
+                  "fitness-for-duty"
+          ],
+          "audience": [
+                  "police"
+          ]
+    },
+    {
+          "slug": "fitness-for-duty-after-protected-leave",
+          "title": "Coming Back From Leave and Getting Hit With a Fitness-for-Duty Order? Here's the Line the Law Draws",
+          "excerpt": "Employers can require a fitness-for-duty evaluation after protected leave — but only within real limits. Courts are increasingly scrutinizing whether the referral is actually justified or just a pretext.",
+          "date": "2026-08-05",
+          "categories": [
+                  "fitness-for-duty"
+          ],
+          "audience": [
+                  "police",
+                  "fire"
+          ]
+    },
+    {
+          "slug": "firefighter-union-speech-staffing-lawsuit",
+          "title": "A City Told Firefighters Their Union Couldn't Talk Staffing With Elected Officials. The Union Sued.",
+          "excerpt": "A First Amendment lawsuit over restrictions on union communication with elected officials is a reminder that meet-and-confer rights don't disappear the moment the conversation moves outside the bargaining room.",
+          "date": "2026-08-06",
+          "categories": [
+                  "meet-confer"
+          ],
+          "audience": [
+                  "fire"
+          ]
+    },
+    {
+          "slug": "cal-fire-pilot-death-benefits-lawsuit",
+          "title": "CAL FIRE Told Grieving Families There Was No State Death Benefit. Fourteen Families Say That Was a Lie.",
+          "excerpt": "Families of contracted air tanker pilots killed fighting California wildfires allege CAL FIRE steered them toward a smaller federal benefit while sitting on a larger state entitlement it never disclosed.",
+          "date": "2026-06-22",
+          "categories": [
+                  "wrongful-death"
+          ],
+          "audience": [
+                  "fire"
+          ]
+    },
+    {
+          "slug": "buena-park-wrongful-death-verdict-reversed",
+          "title": "A $3.5 Million Verdict Just Got Wiped Out Because the Jury Was Handed the Wrong Rulebook",
+          "excerpt": "The Court of Appeal reversed a wrongful death judgment against Buena Park police after finding the trial court applied a 2020 deadly force standard to a 2019 shooting — a timing error with a seven-figure price tag.",
+          "date": "2026-02-19",
+          "categories": [
+                  "wrongful-death"
+          ],
+          "audience": [
+                  "police"
+          ]
+    }
 ]
