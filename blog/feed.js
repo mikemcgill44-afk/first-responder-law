@@ -10,7 +10,9 @@
     'meet-confer': 'Meet & Confer',
     'collective-bargaining': 'Collective Bargaining',
     'civil-litigation': 'Civil Litigation',
-    'fitness-for-duty': 'Fitness for Duty'
+    'fitness-for-duty': 'Fitness for Duty',
+    'calpers': 'CalPERS',
+    'county-retirement': 'County Retirement'
   };
   var state = { posts: [], filtered: [], page: 1, selected: {} };
 
@@ -38,7 +40,7 @@
    var pageItems = state.filtered.slice(start, start + PAGE_SIZE);
 
   if(!pageItems.length){
-    listEl.innerHTML = '<p class="feed-empty">No blog entries yet' + (selectedCount() > 0 ? ' for this topic.' : '.') + ' Check back soon.</p>';
+    listEl.innerHTML = '<p class="feed-empty">' + (selectedCount() > 0 ? 'No blog entries yet for this topic. Check back soon.' : 'Select one or more topics above to see blog entries.') + '</p>';
   } else {
     listEl.innerHTML = pageItems.map(function(p){
       var catLabel = labelsFor(p.categories);
@@ -76,8 +78,7 @@
  function applyFilters(){
    state.page = 1;
    var count = selectedCount();
-   state.filtered = state.posts.filter(function(p){
-     if(count === 0) return true;
+   state.filtered = count === 0 ? [] : state.posts.filter(function(p){
      var cats = p.categories || [];
      for(var i = 0; i < cats.length; i++){
        if(state.selected[cats[i]]) return true;
@@ -110,7 +111,7 @@
      });
      posts.sort(function(a, b){ return new Date(b.date) - new Date(a.date); });
      state.posts = posts;
-     state.filtered = posts;
+     state.filtered = [];
      render();
 
                                                                         var btns = document.querySelectorAll('.filter-btn');
