@@ -972,5 +972,18 @@
             "police",
             "fire"
         ]
+    },
+    {
+        "slug": "lybarger-compelled-interrogation-warnings",
+        "title": "Your Department Can't Interrogate You Without This Warning — The Case That Made It Law",
+        "excerpt": "Lybarger v. City of Los Angeles establishes that officers ordered to answer questions in an internal affairs interrogation must be told their statements can't be used against them criminally, or the department loses the right to use silence against them.",
+        "date": "1985-12-31",
+        "categories": [
+            "discipline"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
     }
 ]
