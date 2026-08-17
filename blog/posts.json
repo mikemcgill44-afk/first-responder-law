@@ -1024,5 +1024,18 @@
             "police",
             "fire"
         ]
+    },
+    {
+        "slug": "mccormick-calpers-location-disability-retirement",
+        "title": "CalPERS Tried to Deny Her Pension Over a Job That Existed Only in Theory",
+        "excerpt": "McCormick v. CalPERS holds that a disability retirement applicant is eligible when she can no longer perform her duties at the only location her employer will allow her to work, even if she could theoretically work elsewhere, and that requesting an accommodation is not a prerequisite to eligibility.",
+        "date": "2019-10-25",
+        "categories": [
+            "calpers"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
     }
 ]
