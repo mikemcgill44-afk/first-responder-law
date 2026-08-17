@@ -12,7 +12,11 @@
     'civil-litigation': 'Civil Litigation',
     'fitness-for-duty': 'Fitness for Duty',
     'calpers': 'CalPERS',
-    'county-retirement': 'County Retirement'
+    'county-retirement': 'County Retirement',
+    'criminal-law': 'Criminal Law',
+    'perb': 'PERB',
+    'lacerb': 'LA City ERB',
+    'ercom': 'ERCOM'
   };
   var state = { posts: [], filtered: [], page: 1, selected: {} };
 
