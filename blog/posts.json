@@ -907,5 +907,57 @@
             "police",
             "fire"
         ]
+    },
+    {
+        "slug": "haywood-fired-for-cause-bars-disability-retirement",
+        "title": "Fired First, Disabled Second? The CalPERS Case That Says the Order Matters",
+        "excerpt": "Haywood v. American River Fire Protection District holds that a firefighter terminated for cause before applying for disability retirement can be barred from receiving it — making timing one of the most consequential decisions in any discipline-adjacent disability claim.",
+        "date": "2006-04-18",
+        "categories": [
+            "calpers"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "calpers-2023-tightens-local-safety-disability-documentation",
+        "title": "CalPERS Quietly Raised the Bar for Approving Your Disability Retirement",
+        "excerpt": "CalPERS now requires contracting agencies to submit substantially more documentation before certifying a local safety member's disability retirement application, a shift that has slowed approvals and increased denials for police and fire applicants statewide.",
+        "date": "2023-09-12",
+        "categories": [
+            "calpers"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "lacera-v-la-county-classification-authority",
+        "title": "Who Actually Controls Your Retirement Board? The Supreme Court Just Answered",
+        "excerpt": "The California Supreme Court rules that county retirement boards operating under CERL do not have final authority over job classifications and salaries for their own staff — that power stays with the county board of supervisors.",
+        "date": "2026-08-03",
+        "categories": [
+            "county-retirement"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "weber-lacera-no-interest-on-retroactive-disability-pay",
+        "title": "LACERA Made You Wait Years for Your Disability Pension — Turns Out It Doesn't Owe You Interest",
+        "excerpt": "Weber v. Board of Retirement holds that LACERA has no statutory authority to pay interest on the retroactive lump sum owed to members whose disability retirement applications take years to process.",
+        "date": "1998-04-10",
+        "categories": [
+            "county-retirement"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
     }
 ]
