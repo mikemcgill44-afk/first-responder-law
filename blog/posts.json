@@ -1062,5 +1062,31 @@
         "audience": [
             "fire"
         ]
+    },
+    {
+        "slug": "unincorporated-association-2005-liability-reform",
+        "title": "Your Association Doesn't Have to Incorporate Anymore — Here's the Law That Changed Everything",
+        "excerpt": "California's Uniform Unincorporated Nonprofit Association Act rewrote the rules on member liability, the capacity to sue and be sued, and property ownership — meaning most police and fire associations no longer need to incorporate to get the protection they used to think only a corporation could provide.",
+        "date": "2026-08-26",
+        "categories": [
+            "collective-bargaining"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "on-duty-vehicle-accident-insurance-protections",
+        "title": "Your On-Duty Car Accident Doesn't Have to Wreck Your Personal Insurance Too",
+        "excerpt": "California law bars premium hikes, nonrenewal, and adverse underwriting after an on-duty vehicle accident in a qualifying vehicle — but the protections have real gaps, and three separate reporting deadlines still apply regardless.",
+        "date": "2026-08-26",
+        "categories": [
+            "workers-comp"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
     }
 ]
