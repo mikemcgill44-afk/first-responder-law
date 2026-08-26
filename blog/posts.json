@@ -1082,7 +1082,10 @@
         "excerpt": "California law bars premium hikes, nonrenewal, and adverse underwriting after an on-duty vehicle accident in a qualifying vehicle — but the protections have real gaps, and three separate reporting deadlines still apply regardless.",
         "date": "2026-08-26",
         "categories": [
-            "workers-comp"
+            "workers-comp",
+                "discipline",
+                "personal-injury",
+                "on-duty-accident"
         ],
         "audience": [
             "police",
