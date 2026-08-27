@@ -1091,5 +1091,160 @@
             "police",
             "fire"
         ]
+    },
+    {
+        "slug": "ventura-deputy-disability-retirement-refused-treatment",
+        "title": "Refuse the Surgery, Lose the Disability Retirement — A California Court Just Confirmed the Rule",
+        "excerpt": "A Ventura County sheriff's deputy who spent four years refusing a recommended back surgery just lost his service-connected disability retirement, as a California appellate court confirms the doctrine of avoidable consequences applies to every county retirement system in the state.",
+        "date": "2026-08-20",
+        "categories": [
+            "line-of-duty-disability",
+            "county-retirement",
+            "workers-comp",
+            "civil-litigation"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "calpers-disability-retirement-new-documentation-requirements",
+        "title": "CalPERS Just Made It Harder to Get — Or Deny — A Safety Member's Disability Retirement",
+        "excerpt": "New CalPERS documentation rules require agencies to submit detailed physical-duties and physician certification forms before any safety member's disability retirement application can move forward, ending the practice of leaning on thin workers' comp paperwork alone.",
+        "date": "2026-08-24",
+        "categories": [
+            "calpers",
+            "line-of-duty-disability",
+            "pensions",
+            "workers-comp"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "sb2-post-serious-misconduct-reporting-requirements",
+        "title": "Every \"Serious Misconduct\" Allegation Now Goes to the State — Here's What Counts",
+        "excerpt": "SB 2 requires California agencies to report every allegation of serious peace officer misconduct — dishonesty, excessive force, bias, and more — to POST's accountability division at the allegation stage, with no exception for claims the agency believes are frivolous.",
+        "date": "2026-08-18",
+        "categories": [
+            "discipline",
+            "civil-rights",
+            "criminal-law",
+            "fitness-for-duty"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "peace-officer-termination-dishonesty-bodycam-upheld",
+        "title": "One Missed Body-Cam Activation, Two Dishonesty Charges, and a Termination That Stuck",
+        "excerpt": "A peace officer's termination for dishonesty was upheld after a late body-worn camera activation and a disputed detention turned into a five-count disciplinary case a city's Personnel Appeals Board found he could not talk his way out of.",
+        "date": "2026-08-12",
+        "categories": [
+            "discipline",
+            "civil-rights",
+            "civil-litigation",
+            "criminal-law"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "officer-refused-mandatory-callout-suspension-upheld",
+        "title": "He Refused a Mandatory Callout During the 2020 Protests — His 30-Day Suspension Just Got Upheld",
+        "excerpt": "A police officer who refused a tactical-alert order to report during a 2020 protest, choosing instead to guard his family's business, lost his suspension appeal and his claim that his captain's phone call violated POBR's interrogation protections.",
+        "date": "2026-08-06",
+        "categories": [
+            "discipline",
+            "civil-rights",
+            "meet-confer",
+            "collective-bargaining"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "off-duty-pursuit-fatal-crash-cdcr-liability",
+        "title": "An Off-Duty Pursuit, A Fatal Crash, and Why the State Couldn't Just Walk Away",
+        "excerpt": "A California appellate ruling revives a wrongful death and personal injury lawsuit against CDCR after a correctional officer's off-duty freeway pursuit in his own car ended in a fiery, fatal crash, finding the scope-of-employment question belonged to a jury.",
+        "date": "2026-07-22",
+        "categories": [
+            "personal-injury",
+            "wrongful-death",
+            "civil-litigation",
+            "on-duty-accident"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "workers-comp-death-benefit-retroactive-ab621",
+        "title": "Your Family's Workers' Comp Death Benefit Just Got a Major Upgrade — Retroactive to 2019",
+        "excerpt": "AB 621 closes a workers' compensation death benefit gap for state safety members, peace officers, and CAL FIRE firefighters, retroactive to injuries dating back to January 1, 2019, so families no longer face a bare burial-expense payment because of a PERS offset.",
+        "date": "2026-07-10",
+        "categories": [
+            "workers-comp",
+            "wrongful-death",
+            "pensions",
+            "calpers"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "ptsd-presumption-extended-sb623",
+        "title": "The PTSD Presumption for Cops and Firefighters Was Set to Expire — Lawmakers Bought It Four More Years",
+        "excerpt": "SB 623 extends California's workers' compensation PTSD presumption for firefighting personnel and peace officers from January 1, 2025 to January 1, 2029, and orders a study into extending the same protection to public safety dispatchers.",
+        "date": "2026-06-28",
+        "categories": [
+            "workers-comp",
+            "fitness-for-duty",
+            "personal-injury",
+            "pensions"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "firefighter-dishonesty-suspension-upheld",
+        "title": "He Lied About Being Late — And Turned a Possible Termination Into a 15-Day Suspension",
+        "excerpt": "A firefighter's lie about why he was late to a shift triggered a dishonesty investigation that could have ended his career; a California trial court rejected his writ challenge to the resulting 15-day suspension.",
+        "date": "2026-06-05",
+        "categories": [
+            "discipline",
+            "fitness-for-duty",
+            "civil-litigation",
+            "criminal-law"
+        ],
+        "audience": [
+            "fire"
+        ]
+    },
+    {
+        "slug": "surveillance-ordinance-perb-bargaining-duty",
+        "title": "The County Rolled Out a Surveillance Ordinance Without Bargaining — PERB Said That's Not How This Works",
+        "excerpt": "PERB orders a California county to bargain the effects of a surveillance technology ordinance on law enforcement personnel, reaffirming that even a pure managerial decision carries an independent duty to bargain its foreseeable effects on the workforce.",
+        "date": "2026-05-14",
+        "categories": [
+            "meet-confer",
+            "collective-bargaining",
+            "perb",
+            "civil-rights"
+        ],
+        "audience": [
+            "police"
+        ]
     }
+
 ]
