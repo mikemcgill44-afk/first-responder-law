@@ -18,7 +18,8 @@
     'lacerb': 'LA City ERB',
     'ercom': 'ERCOM',
     'personal-injury': 'Personal Injury',
-    'on-duty-accident': 'On-Duty Accident'
+    'on-duty-accident': 'On-Duty Accident',
+    'decertification': 'Decertification'
   };
   var state = { posts: [], filtered: [], page: 1, selected: {} };
 
