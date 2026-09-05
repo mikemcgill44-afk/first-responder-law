@@ -1393,6 +1393,145 @@
         "audience": [
             "police"
         ]
+    },
+    {
+        "slug": "ai-generated-police-report-disclosure-sb524",
+        "title": "If Your Officer's Report Was Written by AI, the Law Now Says You Have to Say So",
+        "excerpt": "SB 524 requires California law enforcement agencies to disclose AI-generated report content, retain every draft, and maintain an audit trail before an AI-assisted report can be used as evidence.",
+        "date": "2026-06-30",
+        "categories": [
+            "discipline",
+            "civil-rights",
+            "criminal-law"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "officer-facial-covering-ban-sb627",
+        "title": "California Just Made It a Crime for Officers to Hide Behind a Mask on Duty",
+        "excerpt": "SB 627 makes it a misdemeanor for law enforcement officers to conceal their identity with a facial covering while on duty, and strips civil immunity from officers who violate it during misconduct.",
+        "date": "2026-06-23",
+        "categories": [
+            "discipline",
+            "civil-rights",
+            "civil-litigation"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "post-staff-fingerprint-background-check-ab354",
+        "title": "POST Staff Can Now See Your Criminal History — But Only After Their Own Background Check",
+        "excerpt": "AB 354 requires POST employees, contractors, and volunteers with access to CLETS or criminal history records to pass fingerprint-based background checks before touching that data.",
+        "date": "2026-06-16",
+        "categories": [
+            "civil-rights",
+            "discipline"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "family-notification-officer-involved-shooting-ab572",
+        "title": "Before Detectives Can Question a Grieving Family, California Now Makes Them Show ID First",
+        "excerpt": "AB 572 requires officers and prosecutors to identify themselves and offer a support person before formally interviewing the family of someone killed or seriously injured by a peace officer.",
+        "date": "2026-06-09",
+        "categories": [
+            "civil-rights",
+            "wrongful-death",
+            "criminal-law"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "peace-officer-college-degree-requirement-ab992",
+        "title": "Every New California Officer Will Need a College Credential — Starting in 2031",
+        "excerpt": "AB 992 and SB 385 require every California peace officer to earn a modern policing degree or professional certificate within 36 to 48 months of certification, starting January 1, 2031.",
+        "date": "2026-06-02",
+        "categories": [
+            "discipline",
+            "civil-rights"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "firefighter-ppe-chemical-exposure-ab1181",
+        "title": "Your Turnout Gear May Be Poisoning You. California Just Ordered a Fix.",
+        "excerpt": "AB 1181 requires California's workplace safety board to overhaul firefighter PPE standards to reduce hazardous chemical exposure, with a phased implementation timeline through 2030.",
+        "date": "2026-05-26",
+        "categories": [
+            "workers-comp",
+            "fitness-for-duty"
+        ],
+        "audience": [
+            "fire"
+        ]
+    },
+    {
+        "slug": "peer-support-group-confidentiality-sb459",
+        "title": "What You Tell Your Peer Support Group Just Got a Lot More Confidential",
+        "excerpt": "SB 459 expands confidentiality protection for group peer support services, giving officers the right to keep what they share in group settings out of most legal proceedings.",
+        "date": "2026-05-19",
+        "categories": [
+            "fitness-for-duty",
+            "civil-rights"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "third-party-settlement-apportionment-sb487",
+        "title": "Hurt on the Job by Someone Else's Negligence? California Just Rewrote Who Gets Paid First",
+        "excerpt": "SB 487 caps how much of a third-party settlement an employer can claim before an injured peace officer or firefighter is paid, when total damages exceed the available insurance.",
+        "date": "2026-05-12",
+        "categories": [
+            "personal-injury",
+            "workers-comp",
+            "civil-litigation"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "pension-forfeiture-post-retirement-investigation-ab1067",
+        "title": "Retiring Mid-Investigation Won't Save Your Pension Anymore",
+        "excerpt": "AB 1067 requires public employers to keep investigating suspected criminal misconduct even after an employee retires, setting up automatic PEPRA pension forfeiture if a felony conviction follows.",
+        "date": "2026-05-05",
+        "categories": [
+            "pensions",
+            "discipline",
+            "criminal-law"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "multi-system-pension-calculation-sb853",
+        "title": "California Quietly Rewrote the Rules Behind Your Pension Calculation",
+        "excerpt": "SB 853 standardizes how PERS, CERL county systems, and STRS calculate pensionable compensation for members with multi-system service, and tightens post-retirement reporting rules.",
+        "date": "2026-04-28",
+        "categories": [
+            "pensions",
+            "calpers",
+            "county-retirement"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
     }
 
 ]
