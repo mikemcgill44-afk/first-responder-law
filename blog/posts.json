@@ -1245,6 +1245,154 @@
         "audience": [
             "police"
         ]
+    },
+    {
+        "slug": "off-duty-rock-throwing-deputy-termination",
+        "title": "He Threw a Rock at Her Car, Then Called Himself the Victim — His Termination Stood Anyway",
+        "excerpt": "An off-duty deputy who threw a rock at a civilian's car after she threatened to report his illegal dumping loses his termination appeal, with the hearing officer rejecting his self-defense narrative as inconsistent with his own account of events.",
+        "date": "2026-08-24",
+        "categories": [
+            "discipline",
+            "civil-litigation",
+            "criminal-law",
+            "fitness-for-duty"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "off-duty-marijuana-use-peace-officers",
+        "title": "Your Off-Duty Marijuana Use Is Legally Protected — Unless You Carry a Badge and a Personal Firearm",
+        "excerpt": "AB 2188 bars discipline based on off-duty cannabis use and carves out no exception for peace officers, but a federal firearms law creates a separate, unresolved conflict for officers who carry a personal weapon on duty.",
+        "date": "2026-08-19",
+        "categories": [
+            "fitness-for-duty",
+            "meet-confer",
+            "collective-bargaining",
+            "civil-rights"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "personnel-records-three-new-laws",
+        "title": "Three New Laws Just Redrew the Line Around Your Personnel File",
+        "excerpt": "Three new statutes reshape who can access confidential peace officer personnel records, expanding oversight-board access, protecting undercover officers from disclosure risk, and banning secret agreements to bury misconduct findings.",
+        "date": "2026-08-14",
+        "categories": [
+            "civil-rights",
+            "civil-litigation",
+            "discipline"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "calpers-post-retirement-work-rules",
+        "title": "Rehiring a Retired Deputy for the Weekend Shift Could Cost Your Agency Six Figures",
+        "excerpt": "CalPERS post-retirement work rules impose strict caps on hours, waiting periods, and pay for rehired retirees, and violating them can trigger a demand to repay years of pension payments from both the retiree and the agency.",
+        "date": "2026-08-09",
+        "categories": [
+            "calpers",
+            "pensions",
+            "civil-litigation"
+        ],
+        "audience": [
+            "police",
+            "fire"
+        ]
+    },
+    {
+        "slug": "uniform-military-resemblance-sb480",
+        "title": "Your Uniform Could Now Be a Misdemeanor Waiting to Happen — Here's the Two-of-Three Rule",
+        "excerpt": "SB 480 bars law enforcement uniforms that resemble military dress and prohibits camouflage patterns statewide, with a narrow safe harbor for agencies that keep badge, patch, and lettering markers in place.",
+        "date": "2026-08-03",
+        "categories": [
+            "discipline",
+            "criminal-law",
+            "meet-confer",
+            "civil-rights"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "sergeant-demotion-abrasive-management",
+        "title": "A Sergeant's \"Abrasive Management Style\" Got Him Demoted — Twice — And a Court Said That Was Fine",
+        "excerpt": "A police sergeant's demotion for discourtesy and a falsified report survives a writ challenge after a court finds his abrasive, intimidating management style undercut department efficiency and had already drawn an earlier warning.",
+        "date": "2026-07-28",
+        "categories": [
+            "discipline",
+            "civil-litigation",
+            "fitness-for-duty"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "advisory-arbitration-city-manager-authority",
+        "title": "The Arbitrator Wanted Him Reinstated. The City Manager Said No — And Won.",
+        "excerpt": "A published Court of Appeal decision confirms that when an MOU makes arbitration advisory only, a city manager can reject the arbitrator's findings entirely and uphold a police officer's termination, even on credibility.",
+        "date": "2026-07-21",
+        "categories": [
+            "collective-bargaining",
+            "discipline",
+            "civil-litigation",
+            "criminal-law"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "equitable-estoppel-arbitration-award",
+        "title": "The City Picked the Arbitration Process — Then Tried to Walk It Back After Losing",
+        "excerpt": "A California appellate court holds a sheriff's department equitably estopped from rejecting an arbitration award reinstating a deputy, after the department itself directed his disciplinary appeal into that very process for two decades.",
+        "date": "2026-07-15",
+        "categories": [
+            "collective-bargaining",
+            "civil-litigation",
+            "discipline",
+            "meet-confer"
+        ],
+        "audience": [
+            "police"
+        ]
+    },
+    {
+        "slug": "fire-captain-off-duty-altercation-termination",
+        "title": "He Struck His Brother at a Birthday Party — And Lost His Captain's Bars Over It",
+        "excerpt": "A fire captain's termination for punching his brother at a family party is upheld, with the hearing officer finding no evidence of the imminent threat he claimed justified the blow.",
+        "date": "2026-07-08",
+        "categories": [
+            "discipline",
+            "fitness-for-duty",
+            "civil-litigation"
+        ],
+        "audience": [
+            "fire"
+        ]
+    },
+    {
+        "slug": "peace-officer-decertification-sb2",
+        "title": "California Was One of Four States With No Way to Decertify a Bad Cop. That Changed — Permanently.",
+        "excerpt": "SB 2 creates California's first permanent peace officer decertification process, giving POST's new accountability division authority to review misconduct investigations and permanently bar officers from the profession statewide.",
+        "date": "2026-07-01",
+        "categories": [
+            "decertification",
+            "discipline",
+            "civil-rights",
+            "civil-litigation"
+        ],
+        "audience": [
+            "police"
+        ]
     }
 
 ]
