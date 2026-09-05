@@ -770,3 +770,23 @@ footer {
 }
 
 footer a { color: var(--gold); }
+
+
+/* Mobile fix: prevent Bill of Rights badges from overlapping split-hero panel headings, and Established 2004 badge from overlapping the flag banner title */
+@media (max-width: 700px) {
+  .split-panel,
+  .split-panel-link {
+    min-height: 520px;
+  }
+}
+
+@media (max-width: 640px) {
+  .flag-banner-title {
+    font-size: 1.6rem;
+    letter-spacing: 2px;
+    padding: 14px 26px;
+  }
+  .est-shield {
+    top: 120px;
+  }
+}
